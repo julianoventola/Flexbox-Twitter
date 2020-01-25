@@ -5,13 +5,17 @@ Utilização de HTML e CSS puro, com foco em Flexbox para disposição de elemen
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQj7JpTqhspiW6ArnRGEpr-2L617x6FSlNum3U_jkN0I6GqMpX" alt="alt text" width="120" height="120">
 </p>
+
 # HTML5
 - Simples divisão dos itens encapsulando por necessidade de alinhamento.
  *Maior desafio: A organização fica um pouco complexa pela quantidade de componentes
  
+ 
+ 
 <p align="center">
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="alt text" width="120" height="120">
  </p>
+ 
 # CSS3
 - Todo baseado em flexbox, o layout foi otimizado para que ficasse o mais parecido possivel com a tela inicial do twitter
 *Maior dasafio: a quantidade que o display flex foi repetidamente colocado para que os icones ficassem no modo correto
