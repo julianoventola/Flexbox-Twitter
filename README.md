@@ -1,5 +1,7 @@
 # Flexbox-Twitter
 Utilização de HTML e CSS puro, com foco em Flexbox para disposição de elementos em locais específicos da tela
+![Frontend Twitter](https://photos.app.goo.gl/qB9wquhZL2AnCk568)
+
 
 # HTML
 - Simples divisão dos itens encapsulando por necessidade de alinhamento.
